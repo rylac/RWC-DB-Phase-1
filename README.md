@@ -3,7 +3,10 @@
 After roughly 6 months into my programming journey, I decided I wanted to create a project that tested me and tied alot of the skills I had learnt together. 
 As my primary focus has been data analysis, I knew the project would be "Answering questions about x dataset".
 However, I did not know what this dataset would be. Being an avid rugby fun... scratch that, being obsessed with rugby, I knew I wanted to work on rugby data.
-Fortunately, I couldn't really find any datasets and therefore decided I wanted to create my own. This is what this project has now become all about. 
+Fortunately, I couldn't really find any datasets and therefore decided I wanted to create my own, and potentially, enable other rugby fans to perform work on this data. 
+
+This is what this project has now become all about. 
+
 I used beautiful soup to scrape the Rugby World Cup of 1987's statistics from wikipedia, and put them in a pandas dataframe, and then ended up doing so for 
 every world cup thereafter until the last edition in 2019. 
 
